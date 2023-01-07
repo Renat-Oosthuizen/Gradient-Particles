@@ -1,4 +1,5 @@
 
+//This class is responsible for launching the application
 public class GradientMain {
 	
 	public static void main(String[] args) {
