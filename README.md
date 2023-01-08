@@ -3,7 +3,7 @@
 This is my own project that I did for fun and to learn more about real time applications.
 I was inspired to make this by the real-life behaviour of ants which leave behind and follow pheromone trails.
 
-Note: Work in progress, comments are not accurate. Currently working on an improved version of this project that uses vector navigation, is configurable and supports multiple particle behaviours.
+Note: Currently working on an improved version of this project that uses vector navigation, is configurable and supports multiple particle behaviours.
 
 This is a simulation of particles chasing each other. 
 
